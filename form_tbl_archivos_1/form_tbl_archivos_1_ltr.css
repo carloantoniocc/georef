@@ -1,0 +1,42 @@
+.css_tpi_codigo_label { }
+.css_tpi_codigo_line {text-align:left;}
+.css_tpi_codigo_obj {text-align:left;}
+.css_cla_codigo_label { }
+.css_cla_codigo_line {text-align:left;}
+.css_cla_codigo_obj {text-align:left;}
+.css_arc_codigo_label { }
+.css_arc_codigo_line {text-align:left;}
+.css_arc_codigo_obj {text-align:left;}
+.css_arc_glosa_label { }
+.css_arc_glosa_line { }
+.css_arc_glosa_obj { }
+.css_arc_comentario_label { }
+.css_arc_comentario_line { }
+.css_arc_comentario_obj { }
+.css_arc_archivo_label { }
+.css_arc_archivo_line { }
+.css_arc_archivo_obj { }
+.css_mapa_label { }
+.css_mapa_line {width:800px;height:600px;}
+.css_mapa_obj { }
+.css_simbologia_label { }
+.css_simbologia_line { }
+.css_simbologia_obj { }
+.css_codigo_label { }
+.css_codigo_line { }
+.css_codigo_obj {text-align:right;}
+.css_usuario_label { }
+.css_usuario_line { }
+.css_usuario_obj { }
+.css_pasword_label { }
+.css_pasword_line { }
+.css_pasword_obj { }
+.css_acceso_label {font-family:Tahoma, Arial, sans-serif;font-size:12px;color:#FFFFFF;background-color:#4D6A79;border-width:1px;border-color:#3300FF;text-align:left;}
+.css_acceso_line {font-family:Tahoma, Arial, sans-serif;font-size:13px;color:#FFFFFF;background-color:#4D6A79;border-color:#4D6A79;text-align:left;}
+.css_acceso_obj { }
+.css_btn_login_label { }
+.css_btn_login_line {background-color:#FFFFFF;border-color:#FFFFFF;text-align:center;vertical-align:text-top;width:30px;}
+.css_btn_login_obj { }
+.css_espacio_label {font-family:Courier New, Courier, mono;font-size:16px;color:#FFFFFF;background-color:#FFFFFF;height:150px;}
+.css_espacio_line {font-family:Courier New, Courier, mono;font-size:16px;color:#FFFFFF;background-color:#FFFFFF;height:200px;}
+.css_espacio_obj {font-family:Courier New, Courier, mono;font-size:16px;color:#FFFFFF;background-color:#FFFFFF;height:150px;}

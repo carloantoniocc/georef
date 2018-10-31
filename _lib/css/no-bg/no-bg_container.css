@@ -1,0 +1,11 @@
+.scContainerPage { background-image: none; background-repeat: repeat-x; opacity: 1; filter: alpha(opacity=100) }
+.scContainerHeader { background-color: #F5F5F5; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scContainerHeaderFont { color: #DD4B39; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; text-decoration: none }
+.scContainerFooter { background-color: #f5f5f5; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scContainerFooterFont { color: #999999; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none }
+.scContainerWidget { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D2D2D2; border-style: solid; border-width: 1px }
+.scContainerMaximized { background-image: none; opacity: 1; filter: alpha(opacity=100); border-color: #D2D2D2; border-style: solid; border-width: 1px }
+.scContainerTitle { color: #000000; font-family: Arial, sans-serif; font-size: 12px; padding: 0; letter-spacing: 0px; text-decoration: none }
+.widget-placeholder { border-style: none }
+.widget-head a.remove { background-image: url(../../img/scriptcase__NM__widget_buttons.gif); background-repeat: no-repeat; background-position: -24px }
+.widget-head a.collapse { background-image: url(../../img/scriptcase__NM__widget_buttons.gif); background-repeat: no-repeat; background-position: -52px }

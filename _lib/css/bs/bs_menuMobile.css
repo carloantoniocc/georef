@@ -1,0 +1,6 @@
+.scMenuHHeader { background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.scMenuHHeaderFont { text-shadow: none; text-decoration: none }
+.ui-body-a, .ui-overlay-a, .ui-body-c, .ui-overlay-c { background-image: none; opacity: 1; filter: alpha(opacity=100); border-collapse: collapse }
+.ui-bar-b { text-decoration: none; background-image: none; opacity: 1; filter: alpha(opacity=100) }
+.ui-btn-up-a { background-image: none; opacity: 1; filter: alpha(opacity=100); text-shadow: none; text-decoration: none }
+.ui-btn-hover-a { background-image: none; opacity: 1; filter: alpha(opacity=100); text-shadow: none; text-decoration: none }

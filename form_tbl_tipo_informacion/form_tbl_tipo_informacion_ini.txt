@@ -1,0 +1,7 @@
+index.php
+Georeferencia
+form_tbl_tipo_informacion
+NAO
+form
+form_tbl_tipo_informacion
+LigMd5
